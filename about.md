@@ -4,25 +4,34 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 <br>
-<br> 🚀 Senior Machine Learning Engineer | AI & Cloud Solutions | Generative AI | NLP | Computer Vision 
-<p>Passionate about harnessing the power of Machine Learning and Computer Vision to make a real-world impact on diverse industries. With a strong academic foundation in engineering, statistics, and machine learning, I thrive on connecting the dots, bridging disciplines, and delivering high-performing AI solutions that solve complex business problems.
+<br> 🚀 Senior Engineer | AI & Cloud Solutions | Generative AI | LLM  
+<p>I am a passionate and results-driven Software Engineer with over 8 years of experience in designing, developing, and deploying robust applications across the healthcare, medical device, energy, and utility domains. Currently working as Engineer 3 at Thermo Fisher Scientific, I specialize in building scalable, secure, and high-performance solutions that integrate seamlessly with complex ecosystems, including IoT devices, LIS, EMR systems, and cloud services.
 
-<p>👨‍💻 As a Senior Machine Learning Engineer at Quantiphi, specializing in scalable, real-time cloud solutions on GCP. Driving efficiency in financial workflows through advanced modeling and leading automation of complex document processing for the insurance industry, leveraging custom relation extraction multimodal and generative AI.
+<p>👨‍💻Throughout my career, I have demonstrated expertise in .NET/.NET Core, C#, AMQP, MQTT, Azure, GCP, SQL Server, MongoDB, and event-driven microservice architectures. My work has spanned end-to-end product development, from integrating medical devices and healthcare systems to building smart energy grid solutions and implementing real-time data pipelines.
 
-<p>🗺️ Beyond my work in technology, I'm an avid traveler who has explored India extensively, from north to south and east to west. I'm also a passionate football player. I'm always eager to connect over coffee to share experiences and explore new opportunities!
+<p>🗺️ I take pride in delivering impactful projects such as:
 
-<p>📧 Feel free to reach out at harshavkumar.work@gmail.com. Let's create, innovate, and shape the future together! 🌟
+Developing and testing end-to-end software for allergy and autoimmune testing systems at Thermo Fisher.
+
+Leading modules for Intelliport Gateway at Becton Dickinson, integrating IoT devices and EMRs while implementing observability solutions using CNCF technologies (OpenTelemetry, Jaeger, Prometheus, Grafana).
+
+Building healthcare interoperability platforms at MediAssist, ensuring seamless payer integrations.
+
+Designing and deploying IoT-based energy and utility solutions at EsyaSoft Technologies.
+
+<p>I hold an M.Tech in Software Engineering from BITS Pilani and a B.Tech in Computer Science from Rajasthan Technical University. Beyond work, I enjoy cricket, cooking, and traveling, which keep me energized and balanced.
+
+I thrive in environments where innovation meets real-world impact and aspire to continue contributing to transformative solutions in healthcare and technology-driven domains.
+</p>
+
+<p>📧 Feel free to reach out at rsahu95@outlook.com. Let's create, innovate, and shape the future together! 🌟
 
 
-<p>📊 <b>Programming & Frameworks: </b> Python, C/C++, SQL, TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV,
-Hugging Face Transformers
-<br>🔧<b>MLOps & Development Tools:</b> Docker, Git, Flask, REST APIs, LangChain, LlamaIndex, Kubernetes,
-Kubeflow
-<br>🔧 <b>Cloud Platforms: </b> Google Cloud Platform (Cloud Run, Pub/Sub, GKE, Cloud Tasks, Compute Engine), Amazon
+<p>📊 <b>Programming & Frameworks: </b> .Net, C#, Python, C/C++, SQL, Hugging Face Transformers
+<br>🔧<b>MLOps & Development Tools:</b> Docker, Git, Flask, REST APIs, LangChain, LlamaIndex, Kubernetes, Kubeflow)
+<br>🔧 <b>Cloud Platforms: </b> Google Cloud Platform (Cloud Run, Pub/Sub )
 Web Services (EC2, EKS, SQS)
-<br>📚 <b>AI Specializations: </b> Computer Vision, Natural Language Processing, Deep Learning, Document Digitization,
-Information Extraction, Document Classification, Image Classification, Object Detection, Semantic Segmentation,
-Generative AI, Large Language Models, Retrieval Augmented Generation (RAG)
+<br>📚 <b>AI Specializations: </b> Natural Language Processing, Deep Learning, Generative AI, Large Language Models, Retrieval Augmented Generation (RAG)
 </p>
 
 <!-- <h4>Projects
@@ -41,3 +50,4 @@ Generative AI, Large Language Models, Retrieval Augmented Generation (RAG)
     <li> Candidate Space Recognition</li>
 	<li> ResCode</li>
 </ul></h4> -->
+
